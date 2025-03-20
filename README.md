@@ -1,3 +1,5 @@
+Developed by: Deepshika Hemanth kumar  
+RegisterNumber: 212224220020
 ### study-of-basic-gates
 
 **AIM:** 
@@ -66,8 +68,7 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: Deepshika Hemanth kumar  
- RegisterNumber: 212224220020
+
 ![program](https://github.com/user-attachments/assets/5bb8fabb-2d9f-4fc3-a134-a73df9e72189)
  
 **Logic symbol & Truthtable**
